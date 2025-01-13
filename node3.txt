@@ -1,5 +1,6 @@
 Hello
 
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,6 @@ Update feature Login 222
 
 
 New Update (feature-signup)
+=======
+Update feature Login 222
+>>>>>>> master
